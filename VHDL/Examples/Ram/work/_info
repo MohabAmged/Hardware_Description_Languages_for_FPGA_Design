@@ -1,0 +1,112 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Coursera FPGA/VHDL/Examples/Reg_File
+T_opt
+!s110 1688060041
+Vd6aU94WIcdmAl84lWk2KT0
+04 6 13 work ram_tb ram_testbench 1
+=1-f80dac395f0e-649dc089-27-8f8
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+Eram_tb
+Z0 w1688060018
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 7
+Z6 dE:/Coursera FPGA/VHDL/Examples/Ram
+Z7 8E:/Coursera FPGA/VHDL/Examples/Ram/Ram_tb.vhd
+Z8 FE:/Coursera FPGA/VHDL/Examples/Ram/Ram_tb.vhd
+l0
+L6 1
+VbW89O8A4NMPga3XJTmW?H2
+!s100 G`e0A1]NooWlAC_5FB?kS2
+Z9 OL;C;2021.1;73
+32
+Z10 !s110 1688060027
+!i10b 1
+Z11 !s108 1688060026.000000
+Z12 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|E:/Coursera FPGA/VHDL/Examples/Ram/Ram_tb.vhd|
+Z13 !s107 E:/Coursera FPGA/VHDL/Examples/Ram/Ram_tb.vhd|
+!i113 0
+Z14 o-work work -2002 -explicit
+Z15 tExplicit 1 CvgOpt 0
+Aram_testbench
+R1
+R2
+R3
+R4
+R5
+DEx4 work 6 ram_tb 0 22 bW89O8A4NMPga3XJTmW?H2
+!i122 7
+l37
+L9 80
+V_3_^bD<jA@?:>OO;C1`QI2
+!s100 o35K8li9_2]LLXOThg?5?1
+R9
+32
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 0
+R14
+R15
+Eramgeneric
+Z16 w1688056524
+R3
+R4
+R5
+!i122 1
+R6
+Z17 8E:/Coursera FPGA/VHDL/Examples/Ram/Ram.vhd
+Z18 FE:/Coursera FPGA/VHDL/Examples/Ram/Ram.vhd
+l0
+L5 1
+VV39Y0;KF9TlD9Ldo[38BS3
+!s100 BiX`g4Igo@FbNfL]^iJNT1
+R9
+32
+Z19 !s110 1688056530
+!i10b 1
+Z20 !s108 1688056530.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|E:/Coursera FPGA/VHDL/Examples/Ram/Ram.vhd|
+Z22 !s107 E:/Coursera FPGA/VHDL/Examples/Ram/Ram.vhd|
+!i113 0
+R14
+R15
+Abehavioral
+R3
+R4
+R5
+DEx4 work 10 ramgeneric 0 22 V39Y0;KF9TlD9Ldo[38BS3
+!i122 1
+l25
+L20 20
+VgZ]IH2>617L2cb>G?<WlQ1
+!s100 aleTA3H7C]8UPgZeN<cBG2
+R9
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 0
+R14
+R15

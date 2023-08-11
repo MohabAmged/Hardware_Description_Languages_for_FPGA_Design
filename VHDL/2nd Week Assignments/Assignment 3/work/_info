@@ -1,0 +1,130 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dE:/Coursera FPGA/VHDL/2nd Week Assignments/Assignment 2
+Eaac2m2p3_tb
+Z2 w1573332338
+Z3 DPx4 ieee 16 std_logic_textio 0 22 8]8<fKiYoHe;_IDO3kmNH2
+Z4 DPx4 ieee 20 numeric_bit_unsigned 0 22 fQPIgHhiDaHPI@GGmF4c92
+Z5 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z6 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z7 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 5
+Z8 dE:/Coursera FPGA/VHDL/2nd Week Assignments/Assignment 3
+Z9 8E:/Coursera FPGA/VHDL/2nd Week Assignments/Assignment 3/AAC2M2P3_tb.vhdp
+Z10 FE:/Coursera FPGA/VHDL/2nd Week Assignments/Assignment 3/AAC2M2P3_tb.vhdp
+l0
+L54 1
+Vz9=iK6?gP?3El7[^20fWD0
+!s100 ObY2L342C<a9<njjh?5_>1
+Z11 OL;C;2021.1;73
+32
+Z12 !s110 1688257909
+!i10b 1
+Z13 !s108 1688257909.000000
+Z14 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|E:/Coursera FPGA/VHDL/2nd Week Assignments/Assignment 3/AAC2M2P3_tb.vhdp|
+Z15 !s107 E:/Coursera FPGA/VHDL/2nd Week Assignments/Assignment 3/AAC2M2P3_tb.vhdp|
+!i113 0
+Z16 o-work work -2002 -explicit
+Z17 tExplicit 1 CvgOpt 0
+Abehavioral
+R3
+R4
+R5
+R6
+R7
+DEx4 work 11 aac2m2p3_tb 0 22 z9=iK6?gP?3El7[^20fWD0
+!i122 5
+l135
+L61 221
+VPbCcMUVJCaoAO;WF2lZlS1
+!s100 Tm>h2N]VKZ^C]z0B612CU0
+R11
+!i119 1
+32
+R12
+!i10b 1
+R13
+R14
+R15
+!i113 0
+R16
+R17
+Efsm
+Z18 w1688259723
+R6
+R7
+!i122 21
+R8
+Z19 8E:/Coursera FPGA/VHDL/2nd Week Assignments/Assignment 3/AAC2M2P3.vhd
+Z20 FE:/Coursera FPGA/VHDL/2nd Week Assignments/Assignment 3/AAC2M2P3.vhd
+l0
+L4 1
+VGUhOMCF7SMLz0miUD_eSF1
+!s100 0QOYa8]GV^TF[Gn76;E701
+R11
+32
+Z21 !s110 1688259754
+!i10b 1
+Z22 !s108 1688259753.000000
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|E:/Coursera FPGA/VHDL/2nd Week Assignments/Assignment 3/AAC2M2P3.vhd|
+Z24 !s107 E:/Coursera FPGA/VHDL/2nd Week Assignments/Assignment 3/AAC2M2P3.vhd|
+!i113 0
+R16
+R17
+Afsm_arch
+R6
+R7
+Z25 DEx4 work 3 fsm 0 22 GUhOMCF7SMLz0miUD_eSF1
+!i122 21
+l15
+L12 45
+VEI;>l5G8SA2hCPi0ol6gZ2
+!s100 352S_AO@J5C14]MjFReze1
+R11
+32
+R21
+!i10b 1
+R22
+R23
+R24
+!i113 0
+R16
+R17
+Abehavioral
+R6
+R7
+R25
+!i122 16
+l15
+L12 44
+VS4KXCYK3ja5liDW24:Nco0
+!s100 7;Y8aa[WzFNcCH:69LNGc1
+R11
+32
+!s110 1688259145
+!i10b 1
+!s108 1688259145.000000
+R23
+R24
+!i113 0
+R16
+R17
+w1688259135

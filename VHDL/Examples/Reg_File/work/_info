@@ -1,0 +1,130 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Coursera FPGA/VHDL/Examples/Binary_counter
+T_opt
+!s110 1688042635
+VO4fZOjJ2OUk6VFil8lB5e2
+04 11 13 work reg_file_tb reg_testbench 1
+=1-f80dac395f0e-649d7c8b-d-82fc
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+Ereg_file
+Z1 w1687954701
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z4 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 32
+Z7 dE:/Coursera FPGA/VHDL/Examples/Reg_File
+Z8 8E:/Coursera FPGA/VHDL/Examples/Reg_File/Reg_file.vhd
+Z9 FE:/Coursera FPGA/VHDL/Examples/Reg_File/Reg_file.vhd
+l0
+L6 1
+Vkoa3<dgN:<XUA`k]P_gIk2
+!s100 H8T`m3ZkBi_Oa05M`:PJ[1
+Z10 OL;C;2021.1;73
+33
+Z11 !s110 1687954704
+!i10b 1
+Z12 !s108 1687954704.000000
+Z13 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|E:/Coursera FPGA/VHDL/Examples/Reg_File/Reg_file.vhd|
+Z14 !s107 E:/Coursera FPGA/VHDL/Examples/Reg_File/Reg_file.vhd|
+!i113 0
+Z15 o-work work -2008 -explicit
+Z16 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+R5
+R6
+DEx4 work 8 reg_file 0 22 koa3<dgN:<XUA`k]P_gIk2
+!i122 32
+l25
+L22 14
+V77CBBD_EkDbob<0V]37Ec2
+!s100 [Yg^VQ2P>aD@U[bcRPniF2
+R10
+33
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 0
+R15
+R16
+Ereg_file_tb
+Z17 w1688042613
+R2
+R3
+R4
+R5
+R6
+!i122 72
+R7
+Z18 8E:/Coursera FPGA/VHDL/Examples/Reg_File/Reg_File_TB.vhd
+Z19 FE:/Coursera FPGA/VHDL/Examples/Reg_File/Reg_File_TB.vhd
+l0
+L6 1
+V4RzME9V0>Yae078[eg?4S0
+!s100 h=C`DSNcSOBQ>02EEa`SN1
+R10
+32
+Z20 !s110 1688042617
+!i10b 1
+Z21 !s108 1688042617.000000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|E:/Coursera FPGA/VHDL/Examples/Reg_File/Reg_File_TB.vhd|
+Z23 !s107 E:/Coursera FPGA/VHDL/Examples/Reg_File/Reg_File_TB.vhd|
+!i113 0
+Z24 o-work work -2002 -explicit
+R16
+Areg_testbench
+R2
+R3
+R4
+R5
+R6
+DEx4 work 11 reg_file_tb 0 22 4RzME9V0>Yae078[eg?4S0
+!i122 72
+l37
+L9 84
+V0E^b8@NgNMo@4U^>?7<8H3
+!s100 5mcRlFWTE5ZP8]^a1a3hS3
+R10
+32
+R20
+!i10b 1
+R21
+R22
+R23
+!i113 0
+R24
+R16

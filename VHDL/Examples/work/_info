@@ -1,0 +1,52 @@
+m255
+K4
+z2
+!s11e vcom 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Coursera FPGA/VHDL
+Eregbit4
+Z0 w1687875876
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+Z3 dE:/Coursera FPGA/VHDL/Examples
+Z4 8E:/Coursera FPGA/VHDL/Examples/Register.vhd
+Z5 FE:/Coursera FPGA/VHDL/Examples/Register.vhd
+l0
+L3 1
+VG9ek1FG[<I[Wfec^@X5]Y0
+!s100 Hj:Q_G4[ADkoDEg=m:?Nd3
+Z6 OL;C;2021.1;73
+32
+Z7 !s110 1687875898
+!i10b 1
+Z8 !s108 1687875897.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|E:/Coursera FPGA/VHDL/Examples/Register.vhd|
+!s107 E:/Coursera FPGA/VHDL/Examples/Register.vhd|
+!i113 0
+Z10 o-work work -2002 -explicit
+Z11 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+DEx4 work 7 regbit4 0 22 G9ek1FG[<I[Wfec^@X5]Y0
+!i122 0
+l13
+L12 14
+VaV]=28zD@]KAgh`FF=4=e2
+!s100 5^BO@FGf7LY1ZaZ?gmM[=0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+Z12 !s107 E:/Coursera FPGA/VHDL/Examples/Register.vhd|
+!i113 0
+R10
+R11

@@ -1,0 +1,23 @@
+{E:/Coursera FPGA/VHDL/Examples/Reg_File/Reg_File_TB.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {E:/Coursera FPGA/VHDL/Examples/Reg_File/Reg_File_TB.vhd}
+QuestaSim-64 vcom 2021.1 Compiler 2021.01 Jan 19 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity Reg_File_Tb
+-- Compiling architecture Reg_TestBench of Reg_File_Tb
+
+} {} {}} {E:/Coursera FPGA/VHDL/Examples/Reg_File/Reg_file.vhd} {1 {vcom -work work -2008 -explicit -vopt -stats=none {E:/Coursera FPGA/VHDL/Examples/Reg_File/Reg_file.vhd}
+QuestaSim-64 vcom 2021.1 Compiler 2021.01 Jan 19 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity Reg_File
+-- Compiling architecture behavioral of Reg_File
+
+} {} {}}

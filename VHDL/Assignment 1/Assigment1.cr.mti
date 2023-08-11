@@ -1,0 +1,19 @@
+{E:/Coursera FPGA/VHDL/Assignment 1/AAC2M1P1_tb.vhdp} {1 {vcom -work work -2002 -explicit -vopt -stats=none {E:/Coursera FPGA/VHDL/Assignment 1/AAC2M1P1_tb.vhdp}
+QuestaSim-64 vcom 2021.1 Compiler 2021.01 Jan 19 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_textio
+-- Compiling entity AAC2M1P1_tb
+-- Compiling architecture behavioral of AAC2M1P1_tb
+
+} {} {}} {E:/Coursera FPGA/VHDL/Assignment 1/AAC2M1P1.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {E:/Coursera FPGA/VHDL/Assignment 1/AAC2M1P1.vhd}
+QuestaSim-64 vcom 2021.1 Compiler 2021.01 Jan 19 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity comparator2
+-- Compiling architecture Comp of comparator2
+
+} {} {}}

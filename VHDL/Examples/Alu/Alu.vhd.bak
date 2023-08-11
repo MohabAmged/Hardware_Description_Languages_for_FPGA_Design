@@ -1,0 +1,40 @@
+library IEEE; 
+use IEEE.std_logic_1164;
+use IEEE.numeric_std;
+-- Entity 
+entity ALU is port 
+( 
+    Control_Signal  : in  std_logic_vector (2 downto 0);
+    First_Operand   : in  std_logic_vector (7 downto 0);
+    Seconed_Operand : in  std_logic_vector (7 downto 0);
+    ALU_output      : out std_logic_vector (7 downto 0) 
+);
+end entity ALU;
+-- Architecture 
+architecture behavioral of ALU is 
+signal data : integer :=0;
+begin
+ALu_process : process (Control_Signal,First_Operand,Seconed_Operand) 
+begin
+case_Alu : case Control_Signal is 
+
+     when "000" =>
+     data <= to_integer(unsigned(First_Operand,8) + unsigned(Seconed_Operand,8));
+     when "001" =>
+     data <= to_integer(unsigned(First_Operand,8) - unsigned(Seconed_Operand,8));
+     when "010" =>
+     data <= to_integer(unsigned(First_Operand,8) * unsigned(Seconed_Operand,8));
+     when "011" =>
+     data <= to_integer(unsigned(First_Operand,8) / unsigned(Seconed_Operand,8));
+     when "100" =>
+     data <= to_integer(shift_left(unsigned(First_Operand,8)));
+     when "101" =>
+     data <= to_integer(shift_right(unsigned(First_Operand,8)));
+     when "110" =>
+     data <= to_integer(shift_left(unsigned(Seconed_Operand,8)));
+     when "111" =>
+     data <= to_integer(shift_right(unsigned(Seconed_Operand,8)));
+end case case_Alu;
+
+end process ALu_process;
+end architecture behavioral;

@@ -1,0 +1,15 @@
+{E:/Coursera FPGA/Verilog/1st Week Assignment/Assignment 1/AAC2M3P1_tb.vp} {1 {vlog -work work -vopt -stats=none {E:/Coursera FPGA/Verilog/1st Week Assignment/Assignment 1/AAC2M3P1_tb.vp}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module AAC2M3P1_tb
+
+Top level modules:
+	AAC2M3P1_tb
+
+} {} {}} {E:/Coursera FPGA/Verilog/1st Week Assignment/Assignment 1/AAC2M3P1.v} {1 {vlog -work work -vopt -stats=none {E:/Coursera FPGA/Verilog/1st Week Assignment/Assignment 1/AAC2M3P1.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Comparator2
+
+Top level modules:
+	Comparator2
+
+} {} {}}

@@ -1,0 +1,69 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Coursera FPGA/Verilog/2nd Week Assignment/Assignment 1
+T_opt
+!s110 1688573695
+VGk^IIfk5JLeCMK^]zmMZ:2
+04 11 4 work AAC2M4P2_tb fast 0
+=1-f80dac395f0e-64a596ff-108-8ae8
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vAAC2M4P2_tb
+!s110 1688573618
+!i10b 1
+!s100 ?mnff^@MAM>l0]bN26M1i2
+IjfXcjIGR:ObQn@o9>a7Ec1
+!i119 1
+Z1 dE:/Coursera FPGA/Verilog/2nd Week Assignment/Assignment 2
+w1573412040
+8E:/Coursera FPGA/Verilog/2nd Week Assignment/Assignment 2/AAC2M4P2_tb.vp
+FE:/Coursera FPGA/Verilog/2nd Week Assignment/Assignment 2/AAC2M4P2_tb.vp
+!i122 0
+L0 65 56
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OL;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1688573617.000000
+!s107 E:/Coursera FPGA/Verilog/2nd Week Assignment/Assignment 2/AAC2M4P2_tb.vp|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Coursera FPGA/Verilog/2nd Week Assignment/Assignment 2/AAC2M4P2_tb.vp|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+n@a@a@c2@m4@p2_tb
+vRAM128x32
+!s110 1688573687
+!i10b 1
+!s100 mZ0SK<WiFOmShMD=eJgB52
+IdH>GW1ob69ak3>WI0lbla1
+R1
+w1688573683
+8E:/Coursera FPGA/Verilog/2nd Week Assignment/Assignment 2/AAC2M4P2.v
+FE:/Coursera FPGA/Verilog/2nd Week Assignment/Assignment 2/AAC2M4P2.v
+!i122 1
+L0 1 25
+R2
+R3
+r1
+!s85 0
+31
+!s108 1688573687.000000
+!s107 E:/Coursera FPGA/Verilog/2nd Week Assignment/Assignment 2/AAC2M4P2.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Coursera FPGA/Verilog/2nd Week Assignment/Assignment 2/AAC2M4P2.v|
+!i113 0
+R4
+R0
+n@r@a@m128x32

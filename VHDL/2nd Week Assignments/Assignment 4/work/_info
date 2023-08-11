@@ -1,0 +1,118 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Coursera FPGA/VHDL/2nd Week Assignments/Assignment 3
+T_opt
+!s110 1688261327
+VH3P=VC5eMJQ@WNU@gXTH20
+04 11 10 work aac2m2h1_tb behavioral 1
+=1-f80dac395f0e-64a0d2cf-232-8c84
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+Eaac2m2h1_tb
+Z1 w1573334200
+Z2 DPx4 ieee 16 std_logic_textio 0 22 8]8<fKiYoHe;_IDO3kmNH2
+Z3 DPx4 ieee 20 numeric_bit_unsigned 0 22 fQPIgHhiDaHPI@GGmF4c92
+Z4 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 11
+Z7 dE:/Coursera FPGA/VHDL/2nd Week Assignments/Assignment 4
+Z8 8E:/Coursera FPGA/VHDL/2nd Week Assignments/Assignment 4/AAC2M2H1_tb.vhdp
+Z9 FE:/Coursera FPGA/VHDL/2nd Week Assignments/Assignment 4/AAC2M2H1_tb.vhdp
+l0
+L50 1
+VlI@<gL8^gz3K<cnb_m0eI2
+!s100 [BEDd>9OXS_zAek6EKD>l1
+Z10 OL;C;2021.1;73
+32
+Z11 !s110 1688261294
+!i10b 1
+Z12 !s108 1688261294.000000
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|E:/Coursera FPGA/VHDL/2nd Week Assignments/Assignment 4/AAC2M2H1_tb.vhdp|
+Z14 !s107 E:/Coursera FPGA/VHDL/2nd Week Assignments/Assignment 4/AAC2M2H1_tb.vhdp|
+!i113 0
+Z15 o-work work -2002 -explicit
+Z16 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+R5
+R6
+DEx4 work 11 aac2m2h1_tb 0 22 lI@<gL8^gz3K<cnb_m0eI2
+!i122 11
+l132
+L58 197
+VJ[l?h1IY6L?nz]QamKW^?0
+!s100 9N>2QDJ3@bO[9ZjE@I8YB2
+R10
+!i119 1
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 0
+R15
+R16
+Ealu
+Z17 w1688261316
+Z18 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z19 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R4
+R5
+R6
+!i122 12
+R7
+Z20 8E:/Coursera FPGA/VHDL/2nd Week Assignments/Assignment 4/AAC2M2H1.vhd
+Z21 FE:/Coursera FPGA/VHDL/2nd Week Assignments/Assignment 4/AAC2M2H1.vhd
+l0
+L6 1
+VZjklez0lD1dg=fMJ16<cS1
+!s100 DT2F2BT@RHT2kYhGPVHJO0
+R10
+32
+Z22 !s110 1688261322
+!i10b 1
+Z23 !s108 1688261322.000000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|E:/Coursera FPGA/VHDL/2nd Week Assignments/Assignment 4/AAC2M2H1.vhd|
+Z25 !s107 E:/Coursera FPGA/VHDL/2nd Week Assignments/Assignment 4/AAC2M2H1.vhd|
+!i113 0
+R15
+R16
+Abehavioral
+R18
+R19
+R4
+R5
+R6
+DEx4 work 3 alu 0 22 Zjklez0lD1dg=fMJ16<cS1
+!i122 12
+l15
+L14 28
+VO;_OC4be>kkPf;F8]0kYZ3
+!s100 <l:aXk2TL[22G@zYR4R4a1
+R10
+32
+R22
+!i10b 1
+R23
+R24
+R25
+!i113 0
+R15
+R16

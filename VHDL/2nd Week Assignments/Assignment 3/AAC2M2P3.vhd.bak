@@ -1,0 +1,56 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity FSM is
+port (In1: in std_logic;
+   RST: in std_logic; 
+   CLK: in std_logic;
+   Out1 : inout std_logic);
+end FSM;
+
+
+architecture behavioral of FSM is 
+signal state : std_logic_vector (1 downto 0);
+signal NEXT_state : std_logic_vector (1 downto 0);
+signal temp : std_logic ;
+begin 
+
+FSM_prcoess : process(CLK,IN1,RST)
+begin
+if(rising_edge(CLK) and RST = '0') then
+state<= "00";
+elsif (rising_edge(CLK))
+FSM_CAse : case state is 
+
+when "00" =>
+temp<='0';
+if (IN1 = '0') then 
+NEXT_state<="00";
+elsif (IN1 = '1')
+NEXT_state<="01";
+end if ;
+
+when "01" =>
+temp<='0';
+if (IN1 = '0') then 
+NEXT_state<="10";
+elsif (IN1 = '1')
+NEXT_state<="01";
+end if ;
+
+when "10" =>
+temp<='1';
+if (IN1 = '0') then 
+NEXT_state<="10";
+elsif (IN1 = '1')
+NEXT_state<="00";
+end if ;
+
+when Others =>
+state<="00";
+end case FSM_CAse;
+end if ;
+state <= NEXT_state;
+Out1<=temp;
+end process FSM_prcoess;
+end architecture behavioral;

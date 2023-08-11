@@ -1,0 +1,109 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim64_2021.1/examples
+T_opt
+!s110 1687866546
+VQ3V[BZh5Qg@R0KJSB^:O@3
+04 11 10 work aac2m1p1_tb behavioral 1
+=1-f80dac395f0e-649accb2-90-7240
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+Eaac2m1p1_tb
+Z0 w1573298470
+Z1 DPx4 ieee 16 std_logic_textio 0 22 8]8<fKiYoHe;_IDO3kmNH2
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 1
+Z5 dE:/Coursera FPGA/VHDL/Assignment 1
+Z6 8E:/Coursera FPGA/VHDL/Assignment 1/AAC2M1P1_tb.vhdp
+Z7 FE:/Coursera FPGA/VHDL/Assignment 1/AAC2M1P1_tb.vhdp
+l0
+L52 1
+VJYg2NG8BnOlP:Ta[BeaT?1
+!s100 o_c;zO@o9]4[Q2AMzCkSz0
+Z8 OL;C;2021.1;73
+32
+Z9 !s110 1687866223
+!i10b 1
+Z10 !s108 1687866223.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|E:/Coursera FPGA/VHDL/Assignment 1/AAC2M1P1_tb.vhdp|
+Z12 !s107 E:/Coursera FPGA/VHDL/Assignment 1/AAC2M1P1_tb.vhdp|
+!i113 0
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 11 aac2m1p1_tb 0 22 JYg2NG8BnOlP:Ta[BeaT?1
+!i122 1
+l135
+L61 186
+V0g=Cd;ld2@M15;_bI1[_j1
+!s100 l>ACoNR8M;ZebUZcn?]DG0
+R8
+!i119 1
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+Ecomparator2
+Z15 w1687866438
+R3
+R4
+!i122 6
+R5
+Z16 8E:/Coursera FPGA/VHDL/Assignment 1/AAC2M1P1.vhd
+Z17 FE:/Coursera FPGA/VHDL/Assignment 1/AAC2M1P1.vhd
+l0
+L40 1
+V7>K<a7594hM0oK[<N>PMc1
+!s100 jbXW<kjD[_>^?bUXljbbi2
+R8
+32
+Z18 !s110 1687866530
+!i10b 1
+Z19 !s108 1687866530.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|E:/Coursera FPGA/VHDL/Assignment 1/AAC2M1P1.vhd|
+Z21 !s107 E:/Coursera FPGA/VHDL/Assignment 1/AAC2M1P1.vhd|
+!i113 0
+R13
+R14
+Acomp
+R3
+R4
+DEx4 work 11 comparator2 0 22 7>K<a7594hM0oK[<N>PMc1
+!i122 6
+l48
+L47 4
+VmIWabDdZh9mbi0gHoh_`S2
+!s100 FPJ6SF>KPd0K@Bm[9<Ba<2
+R8
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 0
+R13
+R14

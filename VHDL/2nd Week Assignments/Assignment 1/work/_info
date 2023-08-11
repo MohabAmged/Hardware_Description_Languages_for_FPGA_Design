@@ -1,0 +1,115 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Coursera FPGA/VHDL/Examples/Alu
+T_opt
+!s110 1688254372
+V5CdFmn?^bn7]<<1N<ZBID1
+04 11 10 work aac2m2p1_tb behavioral 1
+=1-f80dac395f0e-64a0b7a3-214-95c0
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+Eaac2m2p1
+Z1 w1688254326
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 10
+Z5 dE:/Coursera FPGA/VHDL/2nd Week Assignments/Assignment 1
+Z6 8E:/Coursera FPGA/VHDL/2nd Week Assignments/Assignment 1/AAC2M2P1.vhd
+Z7 FE:/Coursera FPGA/VHDL/2nd Week Assignments/Assignment 1/AAC2M2P1.vhd
+l0
+L5 1
+VjoIXa>Im6MCbTBhRSI^@83
+!s100 [Vboi2b<dHdmhA9XMaN:R2
+Z8 OL;C;2021.1;73
+33
+Z9 !s110 1688254349
+!i10b 1
+Z10 !s108 1688254349.000000
+Z11 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|E:/Coursera FPGA/VHDL/2nd Week Assignments/Assignment 1/AAC2M2P1.vhd|
+Z12 !s107 E:/Coursera FPGA/VHDL/2nd Week Assignments/Assignment 1/AAC2M2P1.vhd|
+!i113 0
+Z13 o-work work -2008 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+DEx4 work 8 aac2m2p1 0 22 joIXa>Im6MCbTBhRSI^@83
+!i122 10
+l20
+L18 21
+V2bj0>KAlk`gRPBmcU<gAH0
+!s100 onYAnW]@?fMKH74EU_;Mm2
+R8
+33
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+Eaac2m2p1_tb
+Z15 w1573327074
+Z16 DPx4 ieee 16 std_logic_textio 0 22 8]8<fKiYoHe;_IDO3kmNH2
+Z17 DPx4 ieee 20 numeric_bit_unsigned 0 22 fQPIgHhiDaHPI@GGmF4c92
+R2
+R3
+R4
+!i122 3
+R5
+Z18 8E:/Coursera FPGA/VHDL/2nd Week Assignments/Assignment 1/AAC2M2P1_tb.vhdp
+Z19 FE:/Coursera FPGA/VHDL/2nd Week Assignments/Assignment 1/AAC2M2P1_tb.vhdp
+l0
+L53 1
+V]9k1d5L;N2mhb116]mo@:3
+!s100 gS`_:X:U1F[NhndMH]ZN@3
+R8
+32
+Z20 !s110 1688253543
+!i10b 1
+Z21 !s108 1688253543.000000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|E:/Coursera FPGA/VHDL/2nd Week Assignments/Assignment 1/AAC2M2P1_tb.vhdp|
+Z23 !s107 E:/Coursera FPGA/VHDL/2nd Week Assignments/Assignment 1/AAC2M2P1_tb.vhdp|
+!i113 0
+Z24 o-work work -2002 -explicit
+R14
+Abehavioral
+R16
+R17
+R2
+R3
+R4
+DEx4 work 11 aac2m2p1_tb 0 22 ]9k1d5L;N2mhb116]mo@:3
+!i122 3
+l146
+L61 259
+V[FQ6Cl4A7S1lc8=OLgBJD2
+!s100 lcAZD7lWOiNhnNY0KUO5g3
+R8
+!i119 1
+32
+R20
+!i10b 1
+R21
+R22
+R23
+!i113 0
+R24
+R14

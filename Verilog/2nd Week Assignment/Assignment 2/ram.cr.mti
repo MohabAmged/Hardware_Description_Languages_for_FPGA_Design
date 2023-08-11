@@ -1,0 +1,15 @@
+{E:/Coursera FPGA/Verilog/2nd Week Assignment/Assignment 2/AAC2M4P2.v} {1 {vlog -work work -vopt -stats=none {E:/Coursera FPGA/Verilog/2nd Week Assignment/Assignment 2/AAC2M4P2.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module RAM128x32
+
+Top level modules:
+	RAM128x32
+
+} {} {}} {E:/Coursera FPGA/Verilog/2nd Week Assignment/Assignment 2/AAC2M4P2_tb.vp} {1 {vlog -work work -vopt -stats=none {E:/Coursera FPGA/Verilog/2nd Week Assignment/Assignment 2/AAC2M4P2_tb.vp}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module AAC2M4P2_tb
+
+Top level modules:
+	AAC2M4P2_tb
+
+} {} {}}

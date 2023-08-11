@@ -1,0 +1,15 @@
+{E:/Coursera FPGA/Verilog/1st Week Assignment/Assignment 4/AAC2M3H1.v} {1 {vlog -work work -vopt -stats=none {E:/Coursera FPGA/Verilog/1st Week Assignment/Assignment 4/AAC2M3H1.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module FullAdd4
+
+Top level modules:
+	FullAdd4
+
+} {} {}} {E:/Coursera FPGA/Verilog/1st Week Assignment/Assignment 4/AAC2M3H1_tb.vp} {1 {vlog -work work -vopt -stats=none {E:/Coursera FPGA/Verilog/1st Week Assignment/Assignment 4/AAC2M3H1_tb.vp}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module AAC2M3H1_tb
+
+Top level modules:
+	AAC2M3H1_tb
+
+} {} {}}

@@ -1,0 +1,12 @@
+{E:/Coursera FPGA/VHDL/Examples/Binary_counter/Binary_counter.vhd} {1 {vcom -work work -2008 -explicit -vopt -stats=none {E:/Coursera FPGA/VHDL/Examples/Binary_counter/Binary_counter.vhd}
+QuestaSim-64 vcom 2021.1 Compiler 2021.01 Jan 19 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity BinaryCounter4
+-- Compiling architecture behavioral of BinaryCounter4
+
+} {} {}}

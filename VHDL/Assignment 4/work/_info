@@ -1,0 +1,113 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Coursera FPGA/VHDL/Assignment 3
+T_opt
+!s110 1687873325
+VK6M3iJGX4PZ1F=9oRU9@G2
+04 11 10 work aac2m1h1_tb behavioral 1
+=1-f80dac395f0e-649ae72d-28-5780
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+Eaac2m1h1_tb
+Z0 w1573325734
+Z1 DPx4 ieee 16 std_logic_textio 0 22 8]8<fKiYoHe;_IDO3kmNH2
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z4 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 3
+Z7 dE:/Coursera FPGA/VHDL/Assignment 4
+Z8 8E:/Coursera FPGA/VHDL/Assignment 4/AAC2M1H1_tb.vhdp
+Z9 FE:/Coursera FPGA/VHDL/Assignment 4/AAC2M1H1_tb.vhdp
+l0
+L54 1
+V>8b:iQ:__b=Ni3QXHjRNa1
+!s100 A^XO2o@52@[eDimhcl^:n0
+Z10 OL;C;2021.1;73
+32
+Z11 !s110 1687873316
+!i10b 1
+Z12 !s108 1687873316.000000
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|E:/Coursera FPGA/VHDL/Assignment 4/AAC2M1H1_tb.vhdp|
+Z14 !s107 E:/Coursera FPGA/VHDL/Assignment 4/AAC2M1H1_tb.vhdp|
+!i113 0
+Z15 o-work work -2002 -explicit
+Z16 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+R3
+R4
+R5
+R6
+DEx4 work 11 aac2m1h1_tb 0 22 >8b:iQ:__b=Ni3QXHjRNa1
+!i122 3
+l134
+L62 179
+VAc_P4nLXI>z6o6I:On9UV3
+!s100 EEU@<i]U4_DFkN`G^I52z0
+R10
+!i119 1
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 0
+R15
+R16
+Efulladd
+Z17 w1687873311
+R5
+R6
+!i122 2
+R7
+Z18 8E:/Coursera FPGA/VHDL/Assignment 4/AAC2M1H1.vhd
+Z19 FE:/Coursera FPGA/VHDL/Assignment 4/AAC2M1H1.vhd
+l0
+L42 1
+Vdekhz7=GW?aZ_fje;0?i@0
+!s100 m1I`ANj1^QS<M=e6>cMA;3
+R10
+32
+R11
+!i10b 1
+Z20 !s108 1687873315.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|E:/Coursera FPGA/VHDL/Assignment 4/AAC2M1H1.vhd|
+Z22 !s107 E:/Coursera FPGA/VHDL/Assignment 4/AAC2M1H1.vhd|
+!i113 0
+R15
+R16
+Abehavioral
+R5
+R6
+DEx4 work 7 fulladd 0 22 dekhz7=GW?aZ_fje;0?i@0
+!i122 2
+l49
+L48 7
+VPSN9bYjkdz@MoV@fBoOl?3
+!s100 DTk6c;DaX7EVZ[i?`ViC;1
+R10
+32
+R11
+!i10b 1
+R20
+R21
+R22
+!i113 0
+R15
+R16

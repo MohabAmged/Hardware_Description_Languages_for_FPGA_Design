@@ -1,0 +1,20 @@
+{E:/Coursera FPGA/VHDL/Examples/Alu/Alu.vhd} {2 {vcom -work work -2008 -explicit -vopt -stats=none {E:/Coursera FPGA/VHDL/Examples/Alu/Alu.vhd}
+QuestaSim-64 vcom 2021.1 Compiler 2021.01 Jan 19 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ALU
+-- Compiling architecture behavioral of ALU
+** Warning: E:/Coursera FPGA/VHDL/Examples/Alu/Alu.vhd(26): (vcom-1272) Length of expected is 8; length of actual is 16.
+
+} {} {}} {E:/Coursera FPGA/VHDL/Examples/Alu/Alu_tb.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {E:/Coursera FPGA/VHDL/Examples/Alu/Alu_tb.vhd}
+QuestaSim-64 vcom 2021.1 Compiler 2021.01 Jan 19 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Alu_tb
+-- Compiling architecture Alu_TestBench of Alu_tb
+
+} {} {}}
